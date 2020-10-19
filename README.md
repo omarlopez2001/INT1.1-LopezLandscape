@@ -1,0 +1,2 @@
+# INT1.1-Lopez-Landscape
+For my first intensive project, I created a landscaping website for my dad. My dad has been a landscaper for more than twenty years and he's always had the ambition of starting his own business. With this website, he'll be able to show off his work and potential clients will be able to see the type of work he is able to complete. 
